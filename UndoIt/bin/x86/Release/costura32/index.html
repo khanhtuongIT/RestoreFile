@@ -1,0 +1,178 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <script src="../js/bootstrap.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <!--<script src="../js/idfile.js"></script>-->
+    <script>
+        $(document).ready(function () {
+            $("#alert-success").click(function (e) {
+                $("#panel").slideToggle("slow");
+                $("#icon").toggleClass('glyphicon glyphicon-chevron-right').toggleClass('glyphicon glyphicon-chevron-down');
+            });
+            $("#alert").click(function () {
+                $("#panel1").slideToggle("slow");
+                $("#icon1").toggleClass('glyphicon glyphicon-chevron-right').toggleClass('glyphicon glyphicon-chevron-down');
+            });
+            $("#alert1").click(function () {
+                $("#panel2").slideToggle("slow");
+                $("#icon2").toggleClass('glyphicon glyphicon-chevron-right').toggleClass('glyphicon glyphicon-chevron-down');
+            });
+            $("#alert2").click(function () {
+                $("#panel3").slideToggle("slow");
+                $("#icon3").toggleClass('glyphicon glyphicon-chevron-right').toggleClass('glyphicon glyphicon-chevron-down');
+            });
+        });
+    </script>
+
+    <style>
+        #panel, #panel1,#panel2,#panel3{ display:none;}
+        div #img2,#img1,#img3{
+            display: block;
+            margin-left: auto;
+            margin-right: auto
+        }
+    </style>
+
+</head>
+<body>
+     <div class="container" style="padding-left:-10px">
+         <div class="page-header" style="margin-bottom:-5px">
+             <center><h3>Thank you for purchasing Undo It app, a product of IPcamsoft.com.</h3></center>
+         </div>
+         <div class="alert alert-success" role="alert" id="alert-success" style="cursor:pointer">
+             <span id="icon" class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+             <a href="#" class="alert-link">App Introduction</a>
+         </div>
+         <div id="panel" style="margin-left:20px">
+             <p> Undo It is a fully featured, file recovery tool for Windows.</p>
+             <p> Accidentally deleted a file? Never fear; the data is probably still on your drive and may be recoverable.</p>
+             <p> Undo It finds all of the deleted files on your hard drive, flash drive or SD card and allows you to recover them.</p>
+         </div>
+         <div id="alert" class="alert alert-success" role="alert" style="cursor:pointer">
+             <span id="icon1" class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+             <a href="#" class="alert-link">Features</a>
+         </div>      
+         <div id="panel1">
+             <ul>
+                 <li> Scan all of the deleted files</li>
+                 <li> Scan all of the deleted files by name</li>
+                 <li> Scan all of the deleted files by types</li>
+             </ul>
+         </div>
+         <div id="alert1" class="alert alert-success" role="alert" style="cursor:pointer">
+            <span id="icon2" class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <a href="#" class="alert-link">User manual:</a>
+         </div>
+         <div id="panel2">
+             <div>
+                 <div style="margin-left:20px; margin-bottom:10px">
+                     <h4>
+                         <span class="glyphicon glyphicon-ok" aria-hidden="false" style="color:green;"></span>
+                          <b>How to use Scan all feature?</b>
+                     </h4>
+                     <b>Scan all</b> feature will help you search all deleted files.
+                     Access this feature from: <img src="../../scanner_dKL_icon.ico" width="20" height="20"/>
+                     <b>Undo It </b><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span><b>Scan all :</b>
+                 </div>
+                 <div>
+                     <img id="img1" src="images/img1.jpg" width="600" height="600" class="img-responsive"/>
+                 </div>
+                 <div style="margin-left:30px;margin-top:10px;margin-bottom:10px;">
+                     <div>
+                         <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> Firstly, click on <b>Scan all</b> button</p>
+                         <p>
+                             <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> 
+                             You can browse by one of your Disks or Folder. Check on <b>Select All Disks</b> box if you want to scan all of your Disks at a time.
+                         </p>
+                         <p><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> And then click <b>Scan</b> button to start scanning.</p>                         
+                      </div>
+                     <div>
+                         <p>Click <b>Stop</b> button at any time when you want to stop scanning.</p>
+                         <p>finished scanning, you can type the keyword (file name) in the Search box to be able to find your file more quickly.</p>
+                         <p>If you also want to show system files, tick on the box named <b>Show system file and unknown file types</b> next to the <b>Search</b> box.</p>
+                         <p>
+                             After found out the file you need, please click right on that file 
+                             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> 
+                             select <b>Recovery file</b> or click to select that file 
+                             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <b>Restore file</b>. 
+                             And then select the location to save your file.
+                         </p>
+                         <p><b>Notice:</b> We recommend you to save file in the Disk that different from the current Disk of the file.</p>
+                     </div>
+                 </div>
+             </div>
+             <div>
+                 <div style="margin-left:20px; margin-bottom:10px">
+                     <h4>
+                         <span class="glyphicon glyphicon-ok" aria-hidden="false" style="color:green;"></span>
+                          <b>How to use Scan by name feature?</b>
+                     </h4>
+                     <p><b>Scan by name</b> feature will help you search all deleted files by file name.</p>
+                      Access this feature from: 
+                     <img src="../../scanner_dKL_icon.ico" width="20" height="20" />
+                     <b>Undo It </b><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span><b>Scan by name :</b>
+                 </div>
+                 <div>
+                     <img id="img2" src="images/img2.jpg" width="600" height="600" class="img-responsive"/>
+                 </div>
+                 <div style="margin-left:30px;">
+                     <p>Click on <b>Scan by name</b> button and do the same as <b>Scan all</b> button. But there are some differences as below:</p>
+                     <ul>
+                         <li>Type the file name before scanning. (If you cannot remember the correct name, just type in the first letter of the name for scanning similar files)</li>
+                     </ul>
+                 </div>
+             </div>
+             <div style="margin-bottom:20px">
+                 <div style="margin-left:20px; margin-bottom:10px">
+                     <h4>
+                         <span class="glyphicon glyphicon-ok" aria-hidden="false" style="color:green;"></span>
+                          <b>How to use Scan by types feature?</b>
+                     </h4>
+                     <p><b>Scan by types</b> feature will help you search all deleted files by file types.</p>
+                     Access this feature from: <img src="../../scanner_dKL_icon.ico" width="20" height="20"/>
+                     <b>Undo It </b><span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span><b>Scan by types :</b>
+                 </div>
+                 <div>
+                     <img id="img3" src="images/img3.jpg" width="600" height="600" class="img-responsive" />
+                 </div>
+                 <div style="margin-left:30px;">
+                     <p>Click on <b>Scan by types</b> button and do the same as <b>Scan all</b> and <b>Scan by name</b> button. However please note:</p>
+                     <ul>
+                         <li>
+                             You don’t need to type in file name. Just select the Disk and select the icon that represents for the file type you want to find or click on 
+                             <img src="../html/images/chosse.png" width="30" height="30"/>
+                             icon to find other file types.
+                         </li>
+                     </ul>
+                 </div>
+             </div>
+         </div>
+         <div id="alert2" class="alert alert-success" role="alert" style="cursor:pointer">
+            <span id="icon3" class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <a href="#" class="alert-link">Some wheelie good advice for you:</a>
+         </div>
+         <div id="panel3">
+             <ul>
+                 <li> Undo It app works best if performed as soon as possible after file deletion.</li>
+                 <li> When you delete a file, the data is not lost - but new files being written to the hard drive may overwrite your data permanently, making recovery impossible.</li>
+             </ul>
+         </div>
+         <div class="panel panel-info">
+             <div class="panel-heading">
+                 <h3><b>Contact Us</b></h3>
+             </div>
+             <div class="panel-body">
+                 <p>If, for any reasons, you are not happy with our app, please also contact us at <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>: <a href="mailto:support@ipcamsoft.com">support@ipcamsoft.com</a>.</p>
+                 <p>Our support page: <a href="http://ipcamsoft.com/support" class="alert-link">http://ipcamsoft.com/support</a>.</p>
+                 <p>Email our support team at <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>: <a href="mailto:support@ipcamsoft.com" class="alert-link">support@ipcamsoft.com</a>.</p>
+             </div>
+         </div>
+    </div>
+</body>
+</html>

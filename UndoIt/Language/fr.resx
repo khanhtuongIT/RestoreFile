@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="strB" xml:space="preserve">
+    <value>Feuilleter</value>
+  </data>
+  <data name="strButton" xml:space="preserve">
+    <value>Récupérer le Fichier</value>
+  </data>
+  <data name="strButton1" xml:space="preserve">
+    <value>Récupérer les Fichiers</value>
+  </data>
+  <data name="strChance" xml:space="preserve">
+    <value>Bon (aucune donnée perdue détectée)</value>
+  </data>
+  <data name="strChance1" xml:space="preserve">
+    <value>Bon (les données peuvent être écrasées)</value>
+  </data>
+  <data name="strChance2" xml:space="preserve">
+    <value>Mauvais (les données sont partiellement écrasées)</value>
+  </data>
+  <data name="strChance3" xml:space="preserve">
+    <value>Mauvais (les données sont complètement écrasées)</value>
+  </data>
+  <data name="strChance4" xml:space="preserve">
+    <value>Inconnu</value>
+  </data>
+  <data name="strChance5" xml:space="preserve">
+    <value>Excellent</value>
+  </data>
+  <data name="strcp" xml:space="preserve">
+    <value>Informations sur l'ordinateur</value>
+  </data>
+  <data name="strcpAC" xml:space="preserve">
+    <value>Compte d'utilisateur</value>
+  </data>
+  <data name="strcpMAc" xml:space="preserve">
+    <value>Mac ID</value>
+  </data>
+  <data name="strcpName" xml:space="preserve">
+    <value>Nom de l'ordinateur</value>
+  </data>
+  <data name="strcpProcess" xml:space="preserve">
+    <value>Processeur</value>
+  </data>
+  <data name="strcpRam" xml:space="preserve">
+    <value>Mémoire installée</value>
+  </data>
+  <data name="strE" xml:space="preserve">
+    <value>Microsoft Excel</value>
+  </data>
+  <data name="strFinished" xml:space="preserve">
+    <value>Numérisation terminée</value>
+  </data>
+  <data name="strHelp10" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font size="+5"&gt;Comment utiliser la fonction Numériser par types?&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelp11" xml:space="preserve">
+    <value>Cliquez sur le bouton Numériser par types et faites de même que Numériser tout et Numériser par nom.
+Cependant, veuillez noter:</value>
+  </data>
+  <data name="strHelp12" xml:space="preserve">
+    <value>&lt;p&gt;&lt;b&gt;Numériser par types:&lt;/b&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="strHelp13" xml:space="preserve">
+    <value>&lt;p&gt;&lt;span align="left"&gt;Vous n'avez pas besoin de taper le nom de fichier. Sélectionnez simplement le Disque et sélectionnez l'icône qui représente le type de fichier que vous souhaitez trouver ou cliquez sur l'icône &lt;b&gt;Choix&lt;/b&gt; pour trouver d'autres types de fichiers.&lt;/span&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="strHelp14" xml:space="preserve">
+    <value>&lt;p&gt; Recovery This File app wurket it bêste as jo sa gau mooglik nei triem wiske wurde. &lt;/p&gt;
+As jo in triem fuortsmite, dan wurde de gegevens net ferlern - mar nije triemmen skreaun wurde op 'e hurde skiif kinne jo gegevens periodyte oerskriuwe, wêrtroch it werheljen ûnmooglik is.</value>
+  </data>
+  <data name="strHelp15" xml:space="preserve">
+    <value>&lt;p&gt;Contactez-nous à: &lt;a href="mailto:recoverthisfile@gmail.com"&gt;recoverthisfile@gmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Notre page de support: &lt;a href="http://recoverthisfile.com/support" class="alert-link"&gt;http://recoverthisfile.com/support&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Envoyez notre équipe de soutien à: &lt;a href="mailto:recoverthisfile@gmail.com"&gt;recoverthisfile@gmail.com&lt;/a&gt;.&lt;/p&gt;</value>
+  </data>
+  <data name="strHelp16" xml:space="preserve">
+    <value>&lt;p&gt;&lt;span align="center"&gt;&lt;h3&gt;Recover This File&lt;/h3&gt;&lt;/span&gt;&lt;/p&gt;
+Recover This File est un programme excellent de récupération de fichiers qui vous aidera à récupérer vos fichiers supprimés rapidement et facilement.
+
+Ce guide vous aidera à apprendre comment commencer à utiliser l'application facilement.</value>
+  </data>
+  <data name="strHelp4" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font size="+5"&gt;Comment utiliser la fonction Numériser Tout?&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelp5" xml:space="preserve">
+    <value>&lt;b&gt;Numériser Tout&lt;/b&gt; Recherchez tous les fichiers supprimés:</value>
+  </data>
+  <data name="strHelp6" xml:space="preserve">
+    <value>&lt;p&gt;&lt;b&gt; &gt;&lt;/b&gt; Tout d'abord, cliquez sur le bouton &lt;b&gt;Numériser Tout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; &gt;&lt;/b&gt; Vous pouvez parcourir un de vos Disques ou Dossier. Cochez la case &lt;b&gt;Sélectionner Tous les Disques&lt;/b&gt; si vous souhaitez numériser tous vos disques à la fois.&lt;/p&gt;
+
+&lt;b&gt; &gt;&lt;/b&gt; Et puis cliquez sur le bouton &lt;b&gt;Numériser&lt;/b&gt; pour commencer la numérisation.
+&lt;div&gt;
+                         &lt;p&gt;Cliquez sur le bouton &lt;b&gt;Arrêt&lt;/b&gt; à tout moment lorsque vous souhaitez arrêter la numérisation.&lt;/p&gt;
+                        &lt;p&gt; Après avoir terminé la numérisation, vous pouvez taper le mot-clé (nom de fichier) dans la boîte de recherche pour pouvoir trouver votre fichier plus rapidement.
+                         Si vous souhaitez également afficher les fichiers système, cochez la case intitulée &lt;b&gt;Afficher le fichier système et les types de fichiers inconnus,&lt;/b&gt; à côté de la zone de &lt;b&gt;Recherche.&lt;/b&gt;&lt;/p&gt;
+                         &lt;p&gt;
+                             Après avoir découvert le fichier dont vous avez besoin, cliquez avec le bouton droit de la souris sur ce fichier
+                             &lt;b&gt; &gt; &lt;/b&gt;
+                             sélectionnez &lt;b&gt;Récupérer le fichier&lt;/b&gt; ou cliquez pour sélectionner ce fichier
+                             &lt;b&gt; &gt; &lt;/b&gt; &lt;b&gt;Restaurer le fichier&lt;/b&gt;. 
+                             Ensuite, sélectionnez l'emplacement pour enregistrer votre fichier.
+                         &lt;/p&gt;
+                         &lt;b&gt;Remarque:&lt;/b&gt; Nous vous recommandons d'enregistrer le fichier dans le disque différent du disque actuel du fichier.
+&lt;/div&gt;</value>
+  </data>
+  <data name="strHelp7" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font size="+5"&gt;Comment utiliser la fonction Scan by name?&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelp8" xml:space="preserve">
+    <value>&lt;p&gt;&lt;b&gt;Numériser par nom:&lt;/b&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="strHelp9" xml:space="preserve">
+    <value>&lt;span align="left"&gt;Cliquez sur le bouton Numériser par nom et faites les mêmes étapes que le bouton Numériser tout. Mais il y a des différences comme suit:
+Tapez le nom du fichier avant la numérisation. (Si vous ne vous souvenez pas du nom correct, tapez simplement la première lettre du nom pour la numérisation de fichiers similaires)&lt;/span&gt;</value>
+  </data>
+  <data name="strHelpAD" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font color="#FFFFFF" size="+6"&gt;Quelques conseils roulants pour vous:&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelpCS" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font color="#FFFFFF" size="+6"&gt;Contactez nous&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelpUS" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font color="#FFFFFF" size="+6"&gt;Manuel utilisateur&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strMessage" xml:space="preserve">
+    <value>Vous essayez de sauvegarder le fichier dans le même emplacement avec son ancien emplacement. Cela pourrait entraîner une échoué de la récupération et écraser vos données en permanence.Es-tu sur de vouloir continuer?</value>
+  </data>
+  <data name="strMessage1" xml:space="preserve">
+    <value>Attendez que le rétablissement soit terminé.</value>
+  </data>
+  <data name="strMessage2" xml:space="preserve">
+    <value>&lt;span align="center"&gt;L'application est en cours de numérisation. Êtes-vous sûr de vouloir l'arrêter?
+&lt;/span&gt;</value>
+  </data>
+  <data name="strMessage3" xml:space="preserve">
+    <value>&lt;span align="center"&gt;L'application est en cours de numérisation. Êtes-vous sûr de vouloir quitter?&lt;/span&gt;</value>
+  </data>
+  <data name="strP" xml:space="preserve">
+    <value>Microsoft PowerPoint</value>
+  </data>
+  <data name="strP3" xml:space="preserve">
+    <value>MP3</value>
+  </data>
+  <data name="strP4" xml:space="preserve">
+    <value>MP4</value>
+  </data>
+  <data name="strPD" xml:space="preserve">
+    <value>Adobe PDF</value>
+  </data>
+  <data name="strW" xml:space="preserve">
+    <value>Microsoft Word</value>
+  </data>
+  <data name="strAlldisk" xml:space="preserve">
+    <value>Sélectionner tous les disques</value>
+  </data>
+  <data name="strButton2" xml:space="preserve">
+    <value>Restaurer des fichiers</value>
+  </data>
+  <data name="strCancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="strChances" xml:space="preserve">
+    <value>Chances de Récupération</value>
+  </data>
+  <data name="strChoose" xml:space="preserve">
+    <value>Choisissez le type de fichier</value>
+  </data>
+  <data name="strEmail" xml:space="preserve">
+    <value>Votre email</value>
+  </data>
+  <data name="strExit" xml:space="preserve">
+    <value>Sortie</value>
+  </data>
+  <data name="strFileType" xml:space="preserve">
+    <value>Type de fichier</value>
+  </data>
+  <data name="strFolder" xml:space="preserve">
+    <value>Emplacement des dossiers</value>
+  </data>
+  <data name="strFree" xml:space="preserve">
+    <value>Gratuit</value>
+  </data>
+  <data name="strHardware" xml:space="preserve">
+    <value>Disque dur</value>
+  </data>
+  <data name="strLater" xml:space="preserve">
+    <value>Plus tard</value>
+  </data>
+  <data name="strlocation" xml:space="preserve">
+    <value>Sélectionnez un Lieu</value>
+  </data>
+  <data name="strMessage10" xml:space="preserve">
+    <value>S'il vous plaît vous inscrire pour pouvoir utiliser cette fonctionnalité</value>
+  </data>
+  <data name="strMessage11" xml:space="preserve">
+    <value>Attendez que le rétablissement soit terminé.</value>
+  </data>
+  <data name="strMessage12" xml:space="preserve">
+    <value>Es-tu sur de vouloir continuer?</value>
+  </data>
+  <data name="strMessage13" xml:space="preserve">
+    <value>Une nouvelle version est disponible. Voulez-vous mettre à jour maintenant?</value>
+  </data>
+  <data name="strMessage14" xml:space="preserve">
+    <value>Pardon. S'il vous plaît sélectionner le type de fichier avant de commencer à numériser!</value>
+  </data>
+  <data name="strMessage15" xml:space="preserve">
+    <value>Tapez le nom du fichier avant de numériser!</value>
+  </data>
+  <data name="strMessage16" xml:space="preserve">
+    <value>Sélectionnez un lecteur ou un dossier sur le lecteur avant la numérisation!</value>
+  </data>
+  <data name="strMessage17" xml:space="preserve">
+    <value>Recherche par nom de fichier ici</value>
+  </data>
+  <data name="strMessage4" xml:space="preserve">
+    <value>Pardon. Vérifiez le format de l'adresse électronique saisie!</value>
+  </data>
+  <data name="strMessage5" xml:space="preserve">
+    <value>Le champ de numéro de série ne peut pas être vide</value>
+  </data>
+  <data name="strMessage6" xml:space="preserve">
+    <value>Le champ de l'e-mail ne peut pas être vide</value>
+  </data>
+  <data name="strMessage7" xml:space="preserve">
+    <value>Veuillez réessayer. L'adresse e-mail ou le numéro de série que vous avez fourni n'est pas correct.</value>
+  </data>
+  <data name="strMessage8" xml:space="preserve">
+    <value>Inscription réussi</value>
+  </data>
+  <data name="strMessage9" xml:space="preserve">
+    <value>Entrez le mail et le numéro de série</value>
+  </data>
+  <data name="strModified" xml:space="preserve">
+    <value>Dernière Modification</value>
+  </data>
+  <data name="strName" xml:space="preserve">
+    <value>Prénom</value>
+  </data>
+  <data name="strNumber" xml:space="preserve">
+    <value>Numéro de série</value>
+  </data>
+  <data name="strOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="strOption" xml:space="preserve">
+    <value>Le début du temps</value>
+  </data>
+  <data name="strOption1" xml:space="preserve">
+    <value>Les trois derniers mois</value>
+  </data>
+  <data name="strOption2" xml:space="preserve">
+    <value>La semaine dernière</value>
+  </data>
+  <data name="strOption3" xml:space="preserve">
+    <value>Numérisez les éléments suivants par dernière modification de:</value>
+  </data>
+  <data name="strOption4" xml:space="preserve">
+    <value>année</value>
+  </data>
+  <data name="strOption4a" xml:space="preserve">
+    <value>dernières années</value>
+  </data>
+  <data name="strOption5" xml:space="preserve">
+    <value>Les</value>
+  </data>
+  <data name="strPath" xml:space="preserve">
+    <value>Chemin d'accès</value>
+  </data>
+  <data name="strPurchase" xml:space="preserve">
+    <value>Achetez maintenant</value>
+  </data>
+  <data name="strRecovering" xml:space="preserve">
+    <value>Récupération</value>
+  </data>
+  <data name="strRegister" xml:space="preserve">
+    <value>S’inscrire</value>
+  </data>
+  <data name="strSave" xml:space="preserve">
+    <value>Sauvegarder</value>
+  </data>
+  <data name="strScan" xml:space="preserve">
+    <value>Numériser</value>
+  </data>
+  <data name="strSearch" xml:space="preserve">
+    <value>Chercher</value>
+  </data>
+  <data name="strSize" xml:space="preserve">
+    <value>Taille</value>
+  </data>
+  <data name="strStop" xml:space="preserve">
+    <value>Arrêtez</value>
+  </data>
+  <data name="strStopping" xml:space="preserve">
+    <value>Arrêt</value>
+  </data>
+  <data name="strType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="strUpdate" xml:space="preserve">
+    <value>Mettre à jour</value>
+  </data>
+  <data name="strUsed" xml:space="preserve">
+    <value>Utilisé</value>
+  </data>
+  <data name="strWarning" xml:space="preserve">
+    <value>Attention</value>
+  </data>
+  <data name="strOption6" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="strLanguage" xml:space="preserve">
+    <value>les langues</value>
+  </data>
+  <data name="strEnglish" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="strFrench" xml:space="preserve">
+    <value>Français</value>
+  </data>
+  <data name="strGerman" xml:space="preserve">
+    <value>Deutsche</value>
+  </data>
+  <data name="strJapanese" xml:space="preserve">
+    <value>日本語</value>
+  </data>
+  <data name="strSpanish" xml:space="preserve">
+    <value>Español</value>
+  </data>
+  <data name="String" xml:space="preserve">
+    <value />
+  </data>
+  <data name="strFilename" xml:space="preserve">
+    <value>nom de fichier</value>
+  </data>
+  <data name="strSettings" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="strGeneral" xml:space="preserve">
+    <value>Général</value>
+  </data>
+  <data name="strHelp" xml:space="preserve">
+    <value>Aider</value>
+  </data>
+  <data name="strSubscription" xml:space="preserve">
+    <value>Abonnement</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="name" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\namefr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="name-hv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\name-hvfr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scanall-hv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scanall-hvfr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scanall2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scanallfr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strHeader" xml:space="preserve">
+    <value>Choisissez la façon dont vous souhaitez numériser et restaurer</value>
+  </data>
+  <data name="type" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\typefr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="type-hv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\type-hvfr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img1fr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img2fr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img3fr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strAgain" xml:space="preserve">
+    <value>ne me demandez plus</value>
+  </data>
+  <data name="strdocuments" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="strphotos" xml:space="preserve">
+    <value>Photos</value>
+  </data>
+  <data name="strvideos" xml:space="preserve">
+    <value>Vidéos</value>
+  </data>
+</root>

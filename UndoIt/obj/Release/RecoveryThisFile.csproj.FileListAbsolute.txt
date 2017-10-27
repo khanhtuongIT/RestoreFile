@@ -1,0 +1,145 @@
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe.config
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\Resources\scanner.png
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\FrmFileType.resx
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.resx
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\FrmFileType.cs
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\FrmFileType.Designer.cs
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.cs
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.Designer.cs
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\costura32\index.html
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\Resources\chosse.png
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\Resources\img1.JPG
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\scanner_dKL_icon.ico
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\x64\SQLite.Interop.dll
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\x86\SQLite.Interop.dll
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\ExtensionMethods.cs
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\FileSavingQueue.cs
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\App.config
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe.manifest
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.application
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.pdb
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.csprojResolveAssemblyReference.cache
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.ChooseType.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeletedAll_File.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeleteFileViewName.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeleteFileViewType.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Dialog.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DialogNew.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.EnterName.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmFileName.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmFileType.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmSettings.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmShowAllcs.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Help.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.en.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.fr.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.ge.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.ja.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.sp.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.PopupOptions.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Properties.Resources.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Register.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.StartForm.resources
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.csproj.GenerateResource.Cache
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.TrustInfo.xml
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.exe.manifest
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.application
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.exe
+C:\Users\trong\Desktop\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.pdb
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe.config
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.exe
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.pdb
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\Resources\scanner.png
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\FrmFileType.resx
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.resx
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\FrmFileType.cs
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\FrmFileType.Designer.cs
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.cs
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.Designer.cs
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\costura32\index.html
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\Resources\chosse.png
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\scanner_dKL_icon.ico
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\x64\SQLite.Interop.dll
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\x86\SQLite.Interop.dll
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\ExtensionMethods.cs
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\FileSavingQueue.cs
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\App.config
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe.manifest
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.application
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.pdb
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.csprojResolveAssemblyReference.cache
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.ChooseType.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeletedAll_File.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeleteFileViewName.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeleteFileViewType.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Dialog.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DialogNew.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.EnterName.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmFileName.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmFileType.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmSettings.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmShowAllcs.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Help.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.en.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.fr.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.ge.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.ja.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.sp.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.PopupOptions.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Properties.Resources.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Register.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.StartForm.resources
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.csproj.GenerateResource.Cache
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.TrustInfo.xml
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.exe.manifest
+C:\Users\Timviec\Desktop\File Rar\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.application
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe.config
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.exe
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.pdb
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\Resources\scanner.png
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\FrmFileType.resx
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.resx
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\FrmFileType.cs
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\FrmFileType.Designer.cs
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.cs
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\FrmShowAllcs.Designer.cs
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\costura32\index.html
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\Resources\chosse.png
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\scanner_dKL_icon.ico
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\x64\SQLite.Interop.dll
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\x86\SQLite.Interop.dll
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\ExtensionMethods.cs
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\FileSavingQueue.cs
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\App.config
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe.manifest
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.application
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.exe
+C:\DATA\Project windows\UndoIt new UI\UndoIt\bin\Release\RecoveryThisFile.pdb
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.csprojResolveAssemblyReference.cache
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.ChooseType.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeletedAll_File.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeleteFileViewName.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DeleteFileViewType.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Dialog.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.DialogNew.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.EnterName.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmFileName.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmFileType.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmSettings.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.FrmShowAllcs.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Help.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.en.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.fr.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.ge.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.ja.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Language.sp.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.PopupOptions.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Properties.Resources.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.Register.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.StartForm.resources
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.csproj.GenerateResource.Cache
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.TrustInfo.xml
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.exe.manifest
+C:\DATA\Project windows\UndoIt new UI\UndoIt\obj\Release\RecoveryThisFile.application

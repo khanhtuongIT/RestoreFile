@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="strB" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="strHelp13" xml:space="preserve">
+    <value>&lt;span align="left"&gt;You don’t need to type in file name. Just select the Disk and select the icon that represents for the file type you want to find or click on &lt;b&gt;Choice&lt;/b&gt; icon to find other file types.&lt;/span&gt;</value>
+  </data>
+  <data name="strMessage1" xml:space="preserve">
+    <value>Please wait until recovery is finished.</value>
+  </data>
+  <data name="strHelp5" xml:space="preserve">
+    <value>&lt;b&gt;Scan all&lt;/b&gt; feature will help you search all deleted files. Access this feature from: &lt;b&gt;Undo It &lt;/b&gt;&lt;b&gt;&gt; &lt;/b&gt;&lt;b&gt;Scan all :&lt;/b&gt;</value>
+  </data>
+  <data name="strChance1" xml:space="preserve">
+    <value>Good (data may be overwritten)</value>
+  </data>
+  <data name="strP3" xml:space="preserve">
+    <value>MP3</value>
+  </data>
+  <data name="strHelpUS" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font color="#FFFFFF" size="+6"&gt;User manual&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelp11" xml:space="preserve">
+    <value>Click on Scan by types button and do the same as Scan all and Scan by name button. However please note:</value>
+  </data>
+  <data name="strChance4" xml:space="preserve">
+    <value>Unknown</value>
+  </data>
+  <data name="strHelp16" xml:space="preserve">
+    <value>&lt;p&gt;&lt;span align="center"&gt;&lt;h3&gt;Recover This File&lt;/h3&gt;&lt;/span&gt;&lt;/p&gt;
+Thank you for downloading Recover This File app, a product of IPcamsoft.com. Recover This File is a fully featured, file recovery tool for Windows. Accidentally deleted a file? Never fear; the data is probably still on your drive and may be recoverable. Undo It finds all of the deleted files on your hard drive, flash drive or SD card and allows you to recover them.</value>
+  </data>
+  <data name="strHelp6" xml:space="preserve">
+    <value>&lt;p&gt;&lt;b&gt; &gt;&lt;/b&gt; Firstly, click on &lt;b&gt;Scan all&lt;/b&gt; button&lt;/p&gt;
+&lt;b&gt; &gt;&lt;/b&gt; You can browse by one of your Disks or Folder. Check on &lt;b&gt;Select All Disks&lt;/b&gt; box if you want to scan  all of your Disks at a time.
+&lt;b&gt; &gt;&lt;/b&gt; And then click &lt;b&gt;Scan&lt;/b&gt; button to start scanning.
+&lt;div&gt;
+                         &lt;p&gt;Click &lt;b&gt;Stop&lt;/b&gt; button at any time when you want to stop scanning.&lt;/p&gt;
+                         &lt;p&gt;After finished scanning, you can type the keyword (file name) in the Search box to be able to find your file more quickly.&lt;/p&gt;
+                         &lt;p&gt;If you also want to show system files, tick on the box named &lt;b&gt;Show system file and unknown file types&lt;/b&gt; next to the &lt;b&gt;Search&lt;/b&gt; box.&lt;/p&gt;
+                         &lt;p&gt;
+                             After found out the file you need, please right-click on that file 
+                             &lt;b&gt; &gt; &lt;/b&gt;
+                             select &lt;b&gt;Recover file&lt;/b&gt; or click to select that file 
+                             &lt;b&gt; &gt; &lt;/b&gt; &lt;b&gt;Restore file&lt;/b&gt;. 
+                             And then select the location to save your file.
+                         &lt;/p&gt;
+                         &lt;p&gt;&lt;b&gt;Notice:&lt;/b&gt; We recommend you to save file in the Disk that is different from the current Disk of the file.&lt;/p&gt;
+                     &lt;/div&gt;</value>
+  </data>
+  <data name="strButton" xml:space="preserve">
+    <value>Recover File...</value>
+  </data>
+  <data name="strHelp4" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font size="+5"&gt;How to use Scan all feature?&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strChance2" xml:space="preserve">
+    <value>Bad (data is partially overwritten)</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="button1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chosse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chosse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strHelpCS" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font color="#FFFFFF" size="+12"&gt;Contact us&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelp10" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font size="+5"&gt;How to use Scan by types feature?&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelp15" xml:space="preserve">
+    <value>&lt;p&gt;If, for any reasons, you are not happy with our app, please also contact us at: &lt;a href="mailto:recoverthisfile@gmail.com"&gt;recoverthisfile@gmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our support page: &lt;a href="http://recoverthisfile.com/support" class="alert-link"&gt;http://recoverthisfile.com/support&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Email our support team at : &lt;a href="mailto:recoverthisfile@gmail.com"&gt;recoverthisfile@gmail.com&lt;/a&gt;.&lt;/p&gt;</value>
+  </data>
+  <data name="Expand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Expand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strP" xml:space="preserve">
+    <value>Microsoft PowerPoint</value>
+  </data>
+  <data name="strMessage" xml:space="preserve">
+    <value>You are trying to save the file to the same location with its old location. This may cause the recovery failed and overwrite your data permanently. Are you sure you want to continue</value>
+  </data>
+  <data name="strP4" xml:space="preserve">
+    <value>MP4</value>
+  </data>
+  <data name="strPD" xml:space="preserve">
+    <value>Adobe PDF</value>
+  </data>
+  <data name="strHelp8" xml:space="preserve">
+    <value>&lt;p&gt;&lt;b&gt;Scan by name&lt;/b&gt; feature will help you search all deleted files by file name.&lt;/p&gt;Access this feature from: &lt;b&gt;Undo It &lt;/b&gt;&lt;b&gt;&gt; &lt;/b&gt;&lt;b&gt;Scan by name :&lt;/b&gt;</value>
+  </data>
+  <data name="strHelpAD" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font color="#FFFFFF" size="+6"&gt;Some wheelie good advice for you:&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strHelp9" xml:space="preserve">
+    <value>&lt;span align="left"&gt;Click on Scan by name button and do the same steps as Scan all button. But there are some differences as below:
+Type the file name before scanning. (If you cannot remember the correct name, just type in the first letter of the name for scanning similar files)&lt;/span&gt;</value>
+  </data>
+  <data name="strHelp7" xml:space="preserve">
+    <value>&lt;b&gt;&lt;font size="+5"&gt;How to use Scan by name feature?&lt;/font&gt;&lt;/b&gt;</value>
+  </data>
+  <data name="strButton1" xml:space="preserve">
+    <value>Recover Files...</value>
+  </data>
+  <data name="strChance" xml:space="preserve">
+    <value>Good (no lost data detected)</value>
+  </data>
+  <data name="goback" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\goback.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strW" xml:space="preserve">
+    <value>Microsoft Word</value>
+  </data>
+  <data name="strChance5" xml:space="preserve">
+    <value>Excellent</value>
+  </data>
+  <data name="collapse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\collapse.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strHelp14" xml:space="preserve">
+    <value>&lt;p&gt;Recover This File app works best if performed as soon as possible after file deletion.&lt;/p&gt;
+When you delete a file, the data is not lost - but new files being written to the hard drive may overwrite your data permanently, making recovery impossible.</value>
+  </data>
+  <data name="screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\screen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scanner" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scanner.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strE" xml:space="preserve">
+    <value>Microsoft Excel</value>
+  </data>
+  <data name="button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="strHelp12" xml:space="preserve">
+    <value>&lt;p&gt;&lt;b&gt;Scan by types&lt;/b&gt; feature will help you search all deleted files by file types.&lt;/p&gt; Access this feature from:  &lt;b&gt;Undo It &lt;/b&gt;&lt;b&gt;&gt; &lt;/b&gt;&lt;b&gt;Scan by types :&lt;/b&gt;</value>
+  </data>
+  <data name="strChance3" xml:space="preserve">
+    <value>Bad (data is completely overwritten)</value>
+  </data>
+  <data name="Untitled" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitledsp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

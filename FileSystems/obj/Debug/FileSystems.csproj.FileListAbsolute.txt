@@ -1,0 +1,23 @@
+C:\Users\NguyenTrungHieu\Downloads\Icons\kickassundelete-git-85d5ac684b3716c72f23bf9517c2f9074eb7d12d\FileSystems\bin\Debug\FileSystems.dll
+C:\Users\NguyenTrungHieu\Downloads\Icons\kickassundelete-git-85d5ac684b3716c72f23bf9517c2f9074eb7d12d\FileSystems\bin\Debug\FileSystems.pdb
+C:\Users\NguyenTrungHieu\Downloads\Icons\kickassundelete-git-85d5ac684b3716c72f23bf9517c2f9074eb7d12d\FileSystems\bin\Debug\Ionic.Zip.dll
+C:\Users\NguyenTrungHieu\Downloads\Icons\kickassundelete-git-85d5ac684b3716c72f23bf9517c2f9074eb7d12d\FileSystems\obj\Debug\FileSystems.dll
+C:\Users\NguyenTrungHieu\Downloads\Icons\kickassundelete-git-85d5ac684b3716c72f23bf9517c2f9074eb7d12d\FileSystems\obj\Debug\FileSystems.pdb
+C:\Users\NguyenTrungHieu\Desktop\DataRecoveryWF\FileSystems\bin\Debug\FileSystems.dll
+C:\Users\NguyenTrungHieu\Desktop\DataRecoveryWF\FileSystems\bin\Debug\FileSystems.pdb
+C:\Users\NguyenTrungHieu\Desktop\DataRecoveryWF\FileSystems\bin\Debug\Ionic.Zip.dll
+C:\Users\NguyenTrungHieu\Desktop\DataRecoveryWF\FileSystems\obj\Debug\FileSystems.dll
+C:\Users\NguyenTrungHieu\Desktop\DataRecoveryWF\FileSystems\obj\Debug\FileSystems.pdb
+C:\Users\NguyenTrungHieu\Desktop\DataRecoveryWF\FileSystems\obj\Debug\FileSystems.csprojResolveAssemblyReference.cache
+C:\Users\NguyenTrungHieu\Desktop\Recovery\BackUp\DataRecoveryWF\FileSystems\bin\Debug\FileSystems.dll
+C:\Users\NguyenTrungHieu\Desktop\Recovery\BackUp\DataRecoveryWF\FileSystems\bin\Debug\FileSystems.pdb
+C:\Users\NguyenTrungHieu\Desktop\Recovery\BackUp\DataRecoveryWF\FileSystems\bin\Debug\Ionic.Zip.dll
+C:\Users\NguyenTrungHieu\Desktop\Recovery\BackUp\DataRecoveryWF\FileSystems\obj\Debug\FileSystems.csprojResolveAssemblyReference.cache
+C:\Users\NguyenTrungHieu\Desktop\Recovery\BackUp\DataRecoveryWF\FileSystems\obj\Debug\FileSystems.dll
+C:\Users\NguyenTrungHieu\Desktop\Recovery\BackUp\DataRecoveryWF\FileSystems\obj\Debug\FileSystems.pdb
+C:\Users\Timviec\Desktop\UndoIt new UI\FileSystems\bin\Debug\FileSystems.dll
+C:\Users\Timviec\Desktop\UndoIt new UI\FileSystems\bin\Debug\FileSystems.pdb
+C:\Users\Timviec\Desktop\UndoIt new UI\FileSystems\bin\Debug\Ionic.Zip.dll
+C:\Users\Timviec\Desktop\UndoIt new UI\FileSystems\obj\Debug\FileSystems.dll
+C:\Users\Timviec\Desktop\UndoIt new UI\FileSystems\obj\Debug\FileSystems.pdb
+C:\Users\Timviec\Desktop\UndoIt new UI\FileSystems\obj\Debug\FileSystems.csprojResolveAssemblyReference.cache
